@@ -36,16 +36,6 @@ This Tampermonkey userscript automatically clicks the **"Undo Retweet"** button 
 
 ---
 
-## 🎥 Demo  
-
-Here’s how it works in action:  
-
-![Undo Retweet Auto Demo](demo.gif)  
-
-*(Replace `demo.gif` with the actual GIF file or a link, e.g., `https://user-images.githubusercontent.com/.../demo.gif`)*  
-
----
-
 ## ⚠️ Notes
 - Works only on **web version** of X (Twitter).  
 - Be careful: this will remove **all your retweets** as you scroll down.  
