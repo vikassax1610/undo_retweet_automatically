@@ -39,15 +39,6 @@
 
 ---
 
-## 🎥 Demo  
-
-<p align="center">
-  <img src="demo.gif" alt="Undo Retweet Auto Demo" width="600">  
-</p>  
-
-*(Replace `demo.gif` with your actual GIF file or a GitHub-hosted link)*  
-
----
 
 ## ⚠️ Notes
 ⚡ Works only on **web version** of X (Twitter)  
